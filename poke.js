@@ -1,8 +1,7 @@
+#!/usr/bin/env node
 var mdns = require('mdns');
 var colors = require('colors');
-
 var browsers = [];
-
 var sbrowser = mdns.browseThemAll();
 
 sbrowser.on('serviceUp', function(s) {
