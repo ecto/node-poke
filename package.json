@@ -10,6 +10,9 @@
   "engines": {
     "node": "*"
   },
+  "bin": {
+    "poke": "poke.js"
+  },
   "dependencies": {
     "mdns": "*",
     "colors": "*"
