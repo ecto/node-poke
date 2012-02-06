@@ -14,7 +14,7 @@ find all local network services being broadcast over mDNS
 
 ##result
 
-A list simmilar to this:
+a list similar to this:
 
 ````
 60C547073F8C@jasonlbaptiste’s MacBook Air
