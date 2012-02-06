@@ -1,0 +1,18 @@
+{
+  "author": "Cam Pedersen <diffference@gmail.com> (http://campedersen.com/)",
+  "name": "poke",
+  "description": "easily loop through a network's mdns broadcasts",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ecto/node-poke.git"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "mdns": "*",
+    "colors": "*"
+  },
+  "devDependencies": {}
+}
